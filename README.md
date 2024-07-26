@@ -30,3 +30,6 @@ What age groups are the best in the 50 mi race ( age of athletes 20+ )?
 Seasons for data --> slower in summer or winter? 
 
 Males athletes are faster or females ? 
+
+
+link to the dataset : https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data
